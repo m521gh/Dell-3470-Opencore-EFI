@@ -1,6 +1,15 @@
 # Dell-3470-Opencore-EFI
-Use macOS in Dell Vostro 3470 using opencore recovery. 
+Use macOS in Dell Vostro 3470 using opencore recovery.
 
+## Installation
+1. Download respository
+2. Make bootable pendrive
+3. Mac users mount the EFI and paste(Offline).
+4. **Windows users Paste directly in pendrive(Only Online/Windows does not support offline installation).**
+5. **Make sure to use USB 2.0 port.**
+6. Boot through pendrive by pressing f12.
+7. Done. 
+   
 ## Supported OS
 1. Ventura
 2. Monteray

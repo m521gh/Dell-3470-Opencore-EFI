@@ -1,14 +1,15 @@
 # Dell-3470-Opencore-EFI
 Use macOS in Dell Vostro 3470 using opencore recovery.
 
-## Installation
+## Installation/Instruction
 1. Download respository
 2. Make bootable pendrive
 3. Mac users mount the EFI and paste(Offline).
 4. **Windows users Paste directly in pendrive(Only Online/Windows does not support offline installation).**
 5. **Make sure to use USB 2.0 port.**
-6. Boot through pendrive by pressing f12.
-7. Done. 
+6. **Only HDMI Display**
+7. Boot through pendrive by pressing f12.
+8. Done. 
    
 ## Supported OS
 1. Ventura
@@ -29,7 +30,7 @@ Use macOS in Dell Vostro 3470 using opencore recovery.
 2. Blutooth
 Note: Wifi and bluetooth work in Big Sur but unstable, ask me to get the EFI.
 
-## CPU specification
+### CPU specification
 1. 8th Generation i3-8100
 2. UHD 630
 3. Realtek ALC

@@ -23,5 +23,7 @@ Note: Wifi and bluetooth work in Big Sur but unstable, ask me to get the EFI.
 ## CPU specification
 1. 8th Generation i3-8100
 
-Fix all other issues in dortania official website. Follow me for other works.
+Fix all other issues in dortania official website.
+Follow me for other works.
+Donate in UPI:abhimm5@upi
    

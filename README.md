@@ -1,5 +1,9 @@
 # Dell-Vostro-3470-Opencore-EFI
 Use macOS in Dell Vostro 3470 using opencore recovery.
+### CPU specification
+1. 8th Generation i3-8100
+2. UHD 630
+3. Realtek ALC
 
 ## Installation/Instruction
 1. Download respository
@@ -30,10 +34,7 @@ Use macOS in Dell Vostro 3470 using opencore recovery.
 2. Blutooth
 Note: Wifi and bluetooth work in Big Sur but unstable, ask me to get the EFI.
 
-### CPU specification
-1. 8th Generation i3-8100
-2. UHD 630
-3. Realtek ALC
+
 
 Fix all other issues in dortania official website.
 Follow me for other works.

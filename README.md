@@ -1,4 +1,4 @@
-# Dell-3470-Opencore-EFI
+# Dell-Vostro-3470-Opencore-EFI
 Use macOS in Dell Vostro 3470 using opencore recovery.
 
 ## Installation/Instruction

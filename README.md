@@ -9,7 +9,7 @@ Use macOS in Dell Vostro 3470 using opencore recovery.
 1. Download respository
 2. Download mac `.dmg` file using python. Full Article read:[OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
 3. Make bootable pendrive, format it in fat32.
-5. **Windows users Paste directly in pendrive(Only Online installation/Windows does not support offline installation).**
+5. **Windows users paste EFI directly in pendrive(Only Online installation/Windows does not support offline installation).**
 6. **Make sure to use USB 2.0 port.**
 7. **Only HDMI Display Supported**
 8. Boot through pendrive by pressing f12.

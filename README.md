@@ -7,7 +7,7 @@ Use macOS in Dell Vostro 3470 using opencore recovery.
 3. Mac users mount the EFI and paste(Offline).
 4. **Windows users Paste directly in pendrive(Only Online/Windows does not support offline installation).**
 5. **Make sure to use USB 2.0 port.**
-6. **Only HDMI Display**
+6. **Only HDMI Display Supported**
 7. Boot through pendrive by pressing f12.
 8. Done. 
    

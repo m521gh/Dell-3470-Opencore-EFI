@@ -37,6 +37,4 @@ Note: Wifi and bluetooth work in Big Sur but unstable, ask me to get the EFI.
 
 
 Fix all other issues in dortania official website.
-Follow me for other works.
-Donate in UPI:abhimm5@upi
    
